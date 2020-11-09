@@ -7,7 +7,7 @@
 
 - [رزومه](https://aydahanifi.github.io/Ayda/)
 
-- [SOP](لینک انگیزه نامه)
+- [SOP](https://github.com/aydahanifi/SOP)
 
 
 ------------------
