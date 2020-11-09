@@ -43,7 +43,7 @@
    <tr>
     <th ></th>
     <th ></th>
-    <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines" >نظريه زبانهاوماشين ها </a></th>
+    <th ><a href="https://github.com/aydahanifi/pnu_3991_AR/tree/main/Theory-of-Language-and-Machines" >نظريه زبانهاوماشين ها </a></th>
     <th></th>
     <th ></th>
     <th>یک شنبه</th>
