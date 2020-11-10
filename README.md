@@ -33,52 +33,53 @@
     <th>روز</th>
   </tr>
   <tr>
+  </tr>
+   <tr>
     <th ></th>
     <th ></th>
-    <th ></th>
+    <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines" >نظريه زبانهاوماشين ها 01-1115157</a></th>
     <th></th>
-    <th></th>
+    <th ></th>
     <th>شنبه</th>
   </tr>
    <tr>
     <th ></th>
     <th ></th>
-    <th ><a href="https://github.com/aydahanifi/pnu_3991_AR/tree/main/Theory-of-Language-and-Machines" >نظريه زبانهاوماشين ها </a></th>
-    <th></th>
+    <th ></th>
+    <th ></th>
     <th ></th>
     <th>یک شنبه</th>
   </tr>
    <tr>
      <th ></th>
-     <th ></th>
+     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods">روش پژوهش و ارائه01-1322010</a></th>
      <th></th>
-    <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin"></a></th>
-    <th><a href="https://github.com/aydahanifi/pnu_3991_AR/tree/main/Research-And-Presentation-Methods">روش پژوهش و ارائه</a></th>   
+     <th ></th>
+     <th ></th>
     <th>دوشنبه</th>
   </tr>
    <tr>
     <th ></th>
     <th ></th>
-    <th></th>
-    <th></th>
+    <th ></th>
+    <th ></th>
     <th ></th>
     <th>سه شنبه</th>
-  </tr>
-   <tr>
-    <th ></th>
-    <th ></th>
-    <th></th>
-    <th></th>
-     <th ></th>
-    <th>چهارشنبه</th>
-  </tr>
-   <tr>
+ </tr>
+  <tr>
    <th ></th>
-    <th ></th>
-     <th ></th>
-     <th ></th>
-     <th ></th>
-     <th ></th>
+   <th ></th>
+   <th ></th>
+   <th ></th>
+   <th ></th>
+   <th>چهارشنبه</th>
+ </tr>
+ <tr>
+  <th ></th>
+  <th ></th>
+  <th ></th>
+  <th ></th>
+  <th ></th>
   <th>پنجشنبه</th>
   </tr>
 </table>
