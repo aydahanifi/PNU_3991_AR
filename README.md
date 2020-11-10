@@ -78,7 +78,7 @@
      <th ></th>
      <th ></th>
      <th ></th>
-     <th></th>
-    <th>پنج شنبه</th>
+     <th ></th>
+  <th>پنجشنبه</th>
   </tr>
 </table>
