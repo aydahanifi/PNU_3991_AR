@@ -14,7 +14,7 @@
 ## Winter Semester Courses 1399/2020
 ## دروس کارشناسی 
 
-[1115157_01 & 02 نظريه زبانهاوماشين ها 3](https://github.com/nazanin-amini/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
+[1115157_01 & 02 نظريه زبانهاوماشين ها 3](https://github.com/aydahanifi/pnu_3991_AR/tree/main/Theory-of-Language-and-Machines)
 <br>
 [1322010_01 & 02 2 روش پژوهش و ارائه](https://github.com/nazanin-amini/PNU_3991_AR/tree/main/Research-And-Presentation-Methods)
 <br>
