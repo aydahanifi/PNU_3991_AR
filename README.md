@@ -7,7 +7,7 @@
 
 - [رزومه](https://aydahanifi.github.io/Ayda/)
 
-- [SOP](https://github.com/aydahanifi/SOP)
+- [SOP](https://aydahanifi.github.io/SOP/)
 
 
 ------------------
